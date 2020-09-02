@@ -8,7 +8,7 @@
     cogden@cs50.harvard.edu
 
     Originally programmed by Atari in 1972. Features two
-    paddles, controlled by players, with the goal of getting
+    paddles, controlled by players, with the goal of gettingd
     the ball past your opponent's edge. First to 10 points wins.
 
     This version is built to more closely resemble the NES than
